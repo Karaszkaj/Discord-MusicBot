@@ -33,7 +33,7 @@
     },
     "Discord_ClientSecret": {
       "description": "The Discord Bot ClientSecret",
-      "required": "true"
+      "required": "false"
     },
     "Website": {
       "description": "URL of your webserver (Example: https://domain.xyz). Change this if you want to use the web-dashboard.",
